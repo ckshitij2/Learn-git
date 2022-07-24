@@ -1,1 +1,1 @@
-print("This is for add")
+print(3+3)
